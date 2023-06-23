@@ -1,5 +1,6 @@
 ---
 title: "Enhancement One: Software Design & Engineering"
+date: 2023-06-23T17:00:00-04:00
 ---
 
 &emsp;The artifact I have selected to work on improving to exhibit my abilities in software design and engineering is the [Inventory application](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming/tree/main) I created around a year ago for my Mobile Architecture and Development class. Specifically, I rewrote the Login Activity in Kotlin instead of Java because it is considered by Google to be the best new way to develop Android apps. The Login screen is responsible for getting a user’s input email and password. Then, the user can select to either login or create an account to store in the Login database.
