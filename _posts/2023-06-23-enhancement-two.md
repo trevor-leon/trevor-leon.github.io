@@ -1,6 +1,6 @@
 ---
 title: "Enhancement Two: Algorithms & Data Structures"
-
+date: 2023-06-23T18:00:00-04:00
 ---
 
 &emsp;The artifact I have selected to improve to prove my ability in algorithms and data structure is the [Inventory application](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming/tree/main) I created around a year ago for my Mobile Architecture and Development class. Specifically, I rewrote the Login Activity in Kotlin instead of Java because Google considers it to be the best new way to develop Android apps. I wanted to better expand on the functionality of the activity. The original project simply disabled the login and account creation buttons when there was no input in the email and password text fields, and it did not encrypt the login details when storing them. Important user information such as an email address and password should be encrypted. Additionally, the original project did not store IDs for the objects but used the String usernames and item names as the primary keys of each object.
