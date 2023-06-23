@@ -1,6 +1,6 @@
 ---
 title: "Enhancement Three: Databases"
-date: 2023-06-23T19:00:00-04:00
+date: 2023-06-23T15:00:00-04:00
 ---
 
 &emsp;The artifact I have selected to improve to demonstrate my ability in algorithms and data structure is the [Inventory application](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming/tree/main) I created around a year ago for my Mobile Architecture and Development class. Specifically, I rewrote the Login Activity in Kotlin instead of Java because Google considers it the best new way to develop Android apps. I wanted to follow best practices and utilize a Room database, which acts as an abstraction of a SQLite database to reduce boilerplate code and avoid common oversights such as SQL injection. The original Inventory app used regular SQLite databases, did not store IDs as primary keys, and was not encrypted. It also created a HashMap of all the Logins from the Login database to check if the username/password combination is correct rather than checking the database itself.
