@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Trevor Leon"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Professional Computer Scientist graduating from Southern New Hampshire University"
+  bio    : "Professional Computer Science graduate from Southern New Hampshire University"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
