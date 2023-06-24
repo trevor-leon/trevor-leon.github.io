@@ -16,19 +16,17 @@
 title: Trevor Leon Computer Science ePortfolio
 email: trev-leon@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my CS-499 Computer Science Capstone ePortfolio
 github_username: trevor-leon
 minimal_mistakes_skin: dark
-search: false
+search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 6 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -80,8 +78,9 @@ defaults:
       author_profile: true
       read_time: false
       comments: false
-      share: false
+      share: true
       related: false
+      
   # _pages
   - scope:
       path: "_pages"
@@ -89,7 +88,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
 
 footer:
   links:
