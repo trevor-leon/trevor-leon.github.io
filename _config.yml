@@ -98,3 +98,7 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/trevor-leon/"
+
+
+atom_feed:
+  hide: true
