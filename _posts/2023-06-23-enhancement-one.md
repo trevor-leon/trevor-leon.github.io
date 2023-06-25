@@ -17,7 +17,7 @@ date: 2023-06-23T17:00:00-04:00
 
 The original Login activity that I designed for my Inventory app for CS-360 was written in Java and XML, and does not utilize dependency injection.
 
-### [LoginActivity.java](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming/blob/main/src/main/java/com/example/inventory/LoginActivity.java)
+### [LoginActivity.java](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming/blob/master/app/src/main/java/com/example/inventory/LoginActivity.java)
 
 ```
 @Override
