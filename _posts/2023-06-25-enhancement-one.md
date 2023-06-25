@@ -92,6 +92,8 @@ The original Login activity that I designed for my Inventory app for CS-360: Mob
 ...
 ```
 
+---
+
 It also used only one theme rather than letting the user choose to operate in dark or light mode based on their device preferences.
 
 ### [themes.xml](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming/blob/master/app/src/main/res/values/themes.xml)
