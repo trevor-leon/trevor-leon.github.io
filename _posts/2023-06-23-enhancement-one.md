@@ -5,7 +5,7 @@ date: 2023-06-23T17:00:00-04:00
 
 ---
 
-&emsp;The artifact I have selected to work on improving to exhibit my abilities in software design and engineering is the [Inventory application](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming/tree/main) I created almost a year ago for my Mobile Architecture and Development class. Specifically, I rewrote the Login Activity in Kotlin instead of Java because it is considered by Google to be the best new way to develop Android apps. The Login screen is responsible for getting a user’s input email and password. Then, the user can select to either login or create an account to store in the Login database.
+&emsp;The artifact I have selected to work on improving to exhibit my abilities in software design and engineering is the [Inventory application](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming) I created almost a year ago for my Mobile Architecture and Development class. Specifically, I rewrote the Login Activity in Kotlin instead of Java because it is considered by Google to be the best new way to develop Android apps. The Login screen is responsible for getting a user’s input email and password. Then, the user can select to either login or create an account to store in the Login database.
 
 &emsp;Firstly, my [Kotlin Login application](https://github.com/trevor-leon/CS-499-Kotlin-Login) is a good exhibition of my diverse programming language knowledge, as well as my ability to *employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science* by implementing separation of concerns within the code, dependency injection for the app, and adding useful comments as I wrote my code. Additionally, I showcased that I *designed and evaluated computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in the process* by rewriting the screen in Kotlin. The artifact is being improved in general because Kotlin is widely considered to be superior to Java. After all, it provides additional security such as nullability and type safety that Java doesn’t necessarily come with. This *demonstrates that I have developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.* Lastly, my code review and my excellent writing abilities *demonstrate that I designed, developed, and delivered professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.*
 
@@ -66,7 +66,7 @@ The original Login activity that I designed for my Inventory app for CS-360 was 
 ...
 ```
 
-### [ActivityLogin.xml](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming/blob/main/src/main/res/layout/activity_login.xml)
+### [ActivityLogin.xml](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming/blob/master/app/src/main/res/layout/activity_login.xml)
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -94,7 +94,7 @@ The original Login activity that I designed for my Inventory app for CS-360 was 
 
 It also used one color palette rather than letting the user choose to operate in dark or light mode on their device.
 
-### [themes.xml](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming/blob/main/src/main/res/values/themes.xml)
+### [themes.xml](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming/blob/master/app/src/main/res/values/themes.xml)
 
 ```
 <resources xmlns:tools="http://schemas.android.com/tools">
