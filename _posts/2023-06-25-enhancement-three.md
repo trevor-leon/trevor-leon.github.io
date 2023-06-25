@@ -15,7 +15,7 @@ date: 2023-06-25T00:10:00-04:00
 
 ## Enhancement Code Examples
 
-The original Login activity that I designed for my Inventory app for CS-360: Mobile Architecture and Programming was made using a recommended helper class for Java projects, SQLiteOpenHelper
+The original Login activity that I designed for my Inventory app for CS-360: Mobile Architecture and Programming was made using a recommended helper class for Java projects, SQLiteOpenHelper.
 
 ### [LoginDatabase.java](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming/blob/master/app/src/main/java/com/example/inventory/LoginDatabase.java)
 
