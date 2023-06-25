@@ -158,7 +158,7 @@ abstract class LoginDatabase : RoomDatabase() {
 }
 ```
 
-The repository classes utilize the Daos and are used by the LoginViewModel for database access. The LoginViewModel bridges the gap between the UI and the database.
+The repository classes utilize the Daos and are used by the LoginViewModel for database access. The LoginViewModel bridges the gap between the user interface (UI) and the database.
 
 ### [LoginViewModel.kt](https://github.com/trevor-leon/CS-499-Kotlin-Login/blob/master/app/src/main/java/com/example/kotlinlogin/ui/login/LoginViewModel.kt)
 
