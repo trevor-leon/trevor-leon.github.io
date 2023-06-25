@@ -1,3 +1,9 @@
+---
+title: "SNHU Projects"
+excerpt: ""
+sitemap: true
+---
+
 # SNHU Projects
 
 - [CS-250: Software Development Lifecycle](https://github.com/trevor-leon/CS-250_Software_Development_Lifecycle)
