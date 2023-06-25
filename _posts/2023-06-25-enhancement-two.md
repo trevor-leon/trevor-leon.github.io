@@ -304,5 +304,5 @@ class CryptoManager {
 }
 ```
 
-
+---
 
