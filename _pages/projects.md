@@ -2,6 +2,7 @@
 title: "SNHU Projects"
 excerpt: ""
 sitemap: true
+permalink: /projects/
 ---
 
 # SNHU Projects
