@@ -92,7 +92,7 @@ The original Login activity that I designed for my Inventory app for CS-360 was 
 ...
 ```
 
-It also used one color palette rather than letting the user choose to operate in dark or light mode on their device.
+It also used only one color palette rather than letting the user choose to operate in dark or light mode on their device.
 
 ### [themes.xml](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming/blob/master/app/src/main/res/values/themes.xml)
 
