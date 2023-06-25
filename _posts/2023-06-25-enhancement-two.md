@@ -45,7 +45,7 @@ The original Login activity that I designed for my Inventory app for CS-360 did 
 
 In my Kotlin Login application, both usernames and passwords were checked for their respective patterns. Passwords must have an uppercase and lowercase letter, a number, and a symbol, and be at least ten characters long.
 
-[LoginViewModel.kt](https://github.com/trevor-leon/CS-499-Kotlin-Login/blob/master/app/src/main/java/com/example/kotlinlogin/ui/login/LoginViewModel.kt)
+### [LoginViewModel.kt](https://github.com/trevor-leon/CS-499-Kotlin-Login/blob/master/app/src/main/java/com/example/kotlinlogin/ui/login/LoginViewModel.kt)
 
 ```
 ...
