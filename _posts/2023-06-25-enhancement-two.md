@@ -17,7 +17,7 @@ date: 2023-06-25T00:15:00-04:00
 
 ### Login Database Plan
 
-<img width="976" alt="DatabasePlan" src="https://github.com/trevor-leon/trevor-leon.github.io/assets/72781990/92f3c762-0d7e-4d30-a07a-0e3af3d1c5c9">
+<img width="732" alt="DatabasePlan" src="https://github.com/trevor-leon/trevor-leon.github.io/assets/72781990/92f3c762-0d7e-4d30-a07a-0e3af3d1c5c9">
 
 ### Login and Create Account Validation Pseudocode
 
