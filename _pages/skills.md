@@ -37,5 +37,3 @@ permalink: /skills/
 - CppCheck
 - GoogleTest
 - VirtualBox
-
----
