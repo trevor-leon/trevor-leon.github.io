@@ -17,7 +17,7 @@ date: 2023-06-25T00:20:00-04:00
 
 ### Kotlin Login Overview
 
-<img width="488" alt="KotlinLoginOverview" src="https://github.com/trevor-leon/trevor-leon.github.io/assets/72781990/57b71d52-6d33-4075-893d-30c5c343504f">
+<img width="976" alt="KotlinLoginOverview" src="https://github.com/trevor-leon/trevor-leon.github.io/assets/72781990/57b71d52-6d33-4075-893d-30c5c343504f">
 
 
 ---
