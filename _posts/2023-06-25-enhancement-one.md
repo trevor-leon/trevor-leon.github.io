@@ -75,7 +75,7 @@ The original Login activity that I designed for my Inventory app for CS-360: Mob
 ...
 ```
 
-### [ActivityLogin.xml](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming/blob/master/app/src/main/res/layout/activity_login.xml)
+### [activity_login.xml](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming/blob/master/app/src/main/res/layout/activity_login.xml)
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
