@@ -13,6 +13,15 @@ date: 2023-06-25T00:20:00-04:00
 
 ---
 
+## Enhancement Plan
+
+### Kotlin Login Overview
+
+<img width="488" alt="KotlinLoginOverview" src="https://github.com/trevor-leon/trevor-leon.github.io/assets/72781990/57b71d52-6d33-4075-893d-30c5c343504f">
+
+
+---
+
 ## Enhancement Code Examples
 
 The original Login activity that I designed for my Inventory app for CS-360: Mobile Architecture and Programming was written in Java and XML and does not utilize dependency injection.
