@@ -60,7 +60,7 @@ If User taps Login button:
 
 ## Enhancement Code Examples
 
-The original Login activity that I designed for my Inventory app for CS-360 did not validate that a proper email pattern was input into the email text field or that a strong password was input in the password text field before storing it, but I did note in some comments that I wanted to implement that functionality at the time.
+The original Login activity that I designed for my Inventory app for CS-360: Mobile Architecture & Development did not validate that a proper email pattern was input into the email text field or that a strong password was input in the password text field before storing it, but I did note in some comments that I wanted to implement that functionality at the time.
 
 ### [LoginDatabase.java](https://github.com/trevor-leon/CS-360_Mobile_Arch_and_Programming/blob/master/app/src/main/java/com/example/inventory/LoginDatabase.java)
 
