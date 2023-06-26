@@ -13,6 +13,51 @@ date: 2023-06-25T00:15:00-04:00
 
 ---
 
+## Enhancement Plan
+
+### Login Database Plan
+
+<img width="976" alt="DatabasePlan" src="https://github.com/trevor-leon/trevor-leon.github.io/assets/72781990/92f3c762-0d7e-4d30-a07a-0e3af3d1c5c9">
+
+### Login and Create Account Validation Pseudocode
+
+```
+If User taps Login or Create Account button AND username textbox does NOT match email pattern:
+	Turn the textbox RED and output invalid email Toast
+If User taps Login or Create Account button AND password textbox text does NOT match secure password pattern (x amount of characters; using lowercase letters, uppercase letters, and at least one number and symbol)
+	Turn the textbox RED and show output text explaining password rules
+	
+Else
+	Login
+
+```
+
+### Login and Create Account Pseudocode
+
+```
+If User taps Create Account button:
+	Verify username/password combination pattern
+	Salt/encrypt username
+	Salt/encrypt password
+	Verify username/password combination against Login database
+	If username/password combination incorrect:
+		Create a Toast stating invalid account creation
+	Else:
+		Login
+
+If User taps Login button:
+	Salt/encrypt username
+	Salt/encrypt password
+	Verify username/password combination against Login database
+	If username/password combination incorrect:
+		Create a Toast stating invalid login
+	Else:
+		Login
+```
+
+
+---
+
 ## Enhancement Code Examples
 
 The original Login activity that I designed for my Inventory app for CS-360 did not validate that a proper email pattern was input into the email text field or that a strong password was input in the password text field before storing it, but I did note in some comments that I wanted to implement that functionality at the time.
