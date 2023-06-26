@@ -13,6 +13,15 @@ date: 2023-06-25T00:10:00-04:00
 
 ---
 
+## Enhancement Plan
+
+### Kotlin Login Overview
+
+<img width="976" alt="DatabaseDaoEntityRelationship" src="https://github.com/trevor-leon/trevor-leon.github.io/assets/72781990/bf7b8bb5-3de1-4c3d-8790-80fa9201a1bd">
+
+
+---
+
 ## Enhancement Code Examples
 
 The original Login activity that I designed for my Inventory app for CS-360: Mobile Architecture and Programming was made utilizing a recommended helper class for Java projects, SQLiteOpenHelper.
