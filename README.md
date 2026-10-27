@@ -1,6 +1,6 @@
 # CS-499 Computer Science Capstone ePortfolio
 
-This is my Computer Science Capstone ePortfolio for Southern New Hampshire University.
+This is my Computer Science Capstone ePortfolio for Southern New Hampshire University and other projects.
 
 ## Key Projects:
 
